@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T15:21:31.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="TuYz91h4pEHmpYCtAnuF" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T15:24:22.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="a-l8d8CsZ0Kpaq75ouI8" type="github">
   <diagram id="2EhiEJm3ijZOMcDBRQ0T" name="Página-1">
     <mxGraphModel dx="1815" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -268,24 +268,6 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i4TS8dvTLcc1NKmhdbUh-64" value="Consulta" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="120" y="310" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i4TS8dvTLcc1NKmhdbUh-65" value="Fk" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="90" y="310" width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i4TS8dvTLcc1NKmhdbUh-66" value="Fk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="870" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i4TS8dvTLcc1NKmhdbUh-67" value="idconsulta" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="160" y="870" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="i4TS8dvTLcc1NKmhdbUh-68" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="750" width="40" height="30" as="geometry" />
         </mxCell>
@@ -360,10 +342,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i4TS8dvTLcc1NKmhdbUh-87" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="660" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="560" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i4TS8dvTLcc1NKmhdbUh-88" value="0..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="231" y="555" width="40" height="30" as="geometry" />
+          <mxGeometry x="260" y="660" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i4TS8dvTLcc1NKmhdbUh-89" value="" style="endArrow=none;html=1;rounded=0;exitX=0.564;exitY=-0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i4TS8dvTLcc1NKmhdbUh-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
